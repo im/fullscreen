@@ -6,6 +6,9 @@
     "unpkg": "index.js",
     "repository": "https://github.com/im/fullScreen",
     "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
     "keywords": [
         "fullscreen"
     ],
