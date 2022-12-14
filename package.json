@@ -1,6 +1,6 @@
 {
     "name": "@tangxiaomi/fullscreen",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "full fullscreen",
     "main": "index.js",
     "unpkg": "index.js",
