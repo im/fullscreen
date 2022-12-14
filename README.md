@@ -1,6 +1,5 @@
 # fullScreen
 
-
 ```js
 const fullScreen = {
     enter: (el) => {
